@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default } from 'containers/Index';","map":{"version":3,"sources":["/home/hardel/Estudos/Teste Stoom/0-teste/pages/index.js"],"names":["default"],"mappings":"AAAA,SAASA,OAAT,QAAwB,kBAAxB","sourcesContent":["export { default } from 'containers/Index'\n"]},"metadata":{},"sourceType":"module"}

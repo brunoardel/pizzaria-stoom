@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'OratorStd';
+  src: url('/fonts/OratorStd.otf') format('otf');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('/fonts/Roboto-Regular.ttf') format('ttf');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
